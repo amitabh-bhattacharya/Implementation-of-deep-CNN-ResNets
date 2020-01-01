@@ -1,4 +1,4 @@
-# Implementation of deep CNN using Residual Networks (ResNets)
+# Implementation of deep CNN - ResNets
 
 I built a deep convolutional neural network, using Residual Networks (ResNets). We know that deep networks can represent very complex functions; but in practice, they are hard to train. Residual Networks, allow us to train much deeper networks.
 
